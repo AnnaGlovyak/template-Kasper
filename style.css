@@ -1,0 +1,30 @@
+body {
+    font-size: 18px;
+    font-family: 'Open Sans' sans-serif;
+    background-color: #121116;
+    color: white;
+    text-align: center;
+    height: 420px;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+.container-header img {
+    display: block;
+    margin: auto;
+}
+hr {
+    width: 230px;
+}
+.container-social-description p {
+    margin: auto;
+    text-align: center;
+}
+.social-navigation {
+    display: inline-block;
+}
+li {
+    float: left;
+}
+
