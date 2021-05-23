@@ -13,18 +13,28 @@ body {
 .container-header img {
     display: block;
     margin: auto;
+    padding-top: 120px;
 }
 hr {
     width: 230px;
+    margin: 0 auto;
 }
 .container-social-description p {
     margin: auto;
     text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 .social-navigation {
     display: inline-block;
+    padding-top: 20px;
 }
 li {
     float: left;
+}
+.footer p {
+    padding-top: 85px;
+    padding-bottom: 28;
 }
 
