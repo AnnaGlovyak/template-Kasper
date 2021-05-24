@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Open Sans" sans-serif;
-    src: url(/fonts/OpenSans-Regular.ttf) format(ttf);
+    font-family: "Open Sans", sans-serif;
+    src: local('Open Sans Semibold'), url("/fonts/OpenSans-Regular.ttf") format(ttf);
     font-style: normal;
     font-weight: normal;
 }
